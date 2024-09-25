@@ -1,0 +1,12 @@
+.venv/
+/build/
+/data/
+
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
